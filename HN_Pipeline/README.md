@@ -6,6 +6,8 @@ This project was made as an introduction to data pipelining.
 
 Unpack original dataset "hn_stories_2014.zip", it's in json format.
 
+Run "main.py".
+
 ### Prerequisites
 
 Python 3+ version.
