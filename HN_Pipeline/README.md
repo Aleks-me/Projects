@@ -12,7 +12,7 @@ Run "main.py".
 
 Python 3+ version.
 
-No specisl packages required.
+No specisl packages are required.
 
 
 ## Authors
