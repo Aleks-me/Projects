@@ -1,4 +1,4 @@
-# Speaker gender identification project
+# Hacker News Pipeline
 
 This project was made as an introduction to data pipelining.
 
